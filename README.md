@@ -6,5 +6,4 @@
 
 
 
-# Monografia final de conclusão de curso apresentada ao centro universitário carioca – Unicarioca - RJ como requisito parcial para obtenção do título de
-Bacharel em Ciência da Computação.
+# Monografia final de conclusão de curso apresentada ao centro universitário carioca – Unicarioca - RJ como requisito parcial para obtenção do título de Bacharel em Ciência da Computação.
